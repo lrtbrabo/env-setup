@@ -10,6 +10,8 @@ return {
 				null_ls.builtins.formatting.goimports,
 				null_ls.builtins.formatting.golines,
         null_ls.builtins.completion.spell,
+        null_ls.builtins.formatting.black,
+        null_ls.builtins.formatting.yamlfmt,
 			},
 		})
     vim.g.nonels_suppress_issue58 = true
