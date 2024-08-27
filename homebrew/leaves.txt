@@ -1,0 +1,12 @@
+databricks/tap/databricks
+git
+go
+grep
+koekeishiya/formulae/skhd
+koekeishiya/formulae/yabai
+luarocks
+neovim
+node
+python@3.12
+ripgrep
+tmux
